@@ -1,0 +1,14 @@
+# object files
+*.o
+
+# libraries
+*.a
+*.lib
+
+# executables
+*.elf
+
+# vscode configuration
+.vscode/
+
+
